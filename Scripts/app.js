@@ -70,7 +70,7 @@
                <P></p>
                 
                 <p align="right">
-                    <img width="230" src="./Assets/anila.jpeg">
+                    <img width="230" src="./Assets/anila.png">
                 </p>
                 `;
                     break;
