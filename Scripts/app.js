@@ -2,7 +2,7 @@
 // File name: app.js
 // Author's name: Anuben Keshavala
 // Web site name: Home Page 
-//
+
 
 "use strict";
 
@@ -81,7 +81,7 @@
                         Here is my three different projects which i made in my first semester in COMP213 with the help of html and css styles in text pad and microsoft expression web 4.
                     </p>
                     <p>
-                        <b>Real state page: </b>In this part of the project, my aim 
+                        <b>Real Estate page: </b>In this part of the project, my aim 
                         is to provide the detail information of the project that i have 
                         completed. In this page, i am going to provide the projects that 
                         i have completed. Thes projects are fully completed by me. So, 
@@ -133,10 +133,7 @@
 
         return false;
     }
-
     
-
-
     // named function
     function Start()
     {
